@@ -16,3 +16,4 @@ public class Kata {
         return 0;
     }
 }
+
